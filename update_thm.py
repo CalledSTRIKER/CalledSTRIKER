@@ -53,7 +53,7 @@ def update_thm():
 
   <image href="{b64_avatar}" x="10" y="12" width="60" height="60" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
   <text x="82" y="28" font-family="Ubuntu, Arial, sans-serif" font-size="14" font-weight="500" fill="#f9f9fb">{name}</text>
-  <text x="150" y="28" font-family="Ubuntu, Arial, sans-serif" font-size="12" font-weight="500" fill="#ffffff">{rank_title}</text>
+  <text x="180" y="28" font-family="Ubuntu, Arial, sans-serif" font-size="12" font-weight="500" fill="#ffffff">{rank_title}</text>
 
   <g transform="translate(82, 54)">
     <text font-size="11" fill="#9ca4b4">🏆</text> <text x="16" font-family="Ubuntu" font-size="11" fill="white">{trophies}</text>
