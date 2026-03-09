@@ -52,10 +52,11 @@ def update_thm():
   <circle cx="40" cy="42" r="30" fill="#121212"/>
 
   <image href="{b64_avatar}" x="10" y="12" width="60" height="60" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
-  <text x="82" y="28" font-family="Ubuntu, Arial, sans-serif" font-size="14" font-weight="500" fill="#f9f9fb">{name}</text>
-  <text x="180" y="28" font-family="Ubuntu, Arial, sans-serif" font-size="12" font-weight="500" fill="#ffffff">{rank_title}</text>
+<text x="82" y="24" font-family="Ubuntu, Arial, sans-serif" font-size="14" font-weight="500" fill="#f9f9fb">{name}</text>
+  <text x="82" y="40" font-family="Ubuntu, Arial, sans-serif" font-size="11" font-weight="400" fill="#a3ea2a">{rank_title}</text>
 
-  <g transform="translate(82, 54)">
+    <g transform="translate(82, 60)">
+
     <text font-size="11" fill="#9ca4b4">🏆</text> <text x="16" font-family="Ubuntu" font-size="11" fill="white">{trophies}</text>
     <text x="44" font-size="11" fill="#a3ea2a">🔥</text> <text x="60" font-family="Ubuntu" font-size="11" fill="white">{streak}</text>
     <text x="108" font-size="11" fill="#d752ff">🏅</text> <text x="124" font-family="Ubuntu" font-size="11" fill="white">{awards}</text>
