@@ -102,6 +102,14 @@ def parse_stats(raw):
     sea_data      = (raw.get("season") or {}).get("data", [])
     sea           = sea_data[0] if isinstance(sea_data, list) and sea_data else {}
 
+    rank = p.get("rank")
+
+    if rank == "Guru":
+        rank = "Architect"
+
+    else if rank == "Omniscient":
+        rank = "Legendary"
+
     return {
         "name":              p.get("name"),
         "rank":              p.get("rank"),
