@@ -5,8 +5,6 @@
 
 <div align="center">
   <img src="assets/htb-stats.svg" width="900" alt="HTB Stats" />
-  <br>
-  <img src="assets/thm-stats.svg" width="450" alt="THM Badge" />
 </div>
 
 -----------------------------------------------------
