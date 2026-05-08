@@ -107,12 +107,12 @@ def parse_stats(raw):
     if rank == "Guru":
         rank = "Architect"
 
-    else if rank == "Omniscient":
+    elif rank == "Omniscient":
         rank = "Legendary"
 
     return {
         "name":              p.get("name"),
-        "rank":              p.get("rank"),
+        "rank":              rank,
         "user_owns":         user_owns,
         "root_owns":         root_owns,
         "challenges_solved": ch_solved,
