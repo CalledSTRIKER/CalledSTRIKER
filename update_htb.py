@@ -119,7 +119,7 @@ def parse_stats(raw):
         "rank_pos":          p.get("ranking"),
         "season_rank":       sea.get("rank"),
         "season_league":     sea.get("league"),
-        "updated":           datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
+        "updated":           datetime.now(ZoneInfo("Asia/Riyadh")).strftime("%Y-%m-%d %H:%M KSA"),
     }
 
 def validate_stats(stats):
