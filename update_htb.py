@@ -11,6 +11,7 @@ import urllib.error
 import time
 import base64
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 
 STATE_FILE = "assets/htb_state.json"
 
