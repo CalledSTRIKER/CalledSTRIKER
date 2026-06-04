@@ -7,29 +7,10 @@
   <img src="assets/htb-stats.svg" width="900" alt="HTB Stats" />
 </div>
 
------------------------------------------------------
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="220">
-        <img src="https://github.com/user-attachments/assets/b144a205-e91c-4ee9-988c-2e2c93659db4" width="180" /><br>
-        <code>[CAPenX]</code>
-      </td>
-      <td align="center" width="220">
-        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/130542707" width="160" /><br>
-        <code>[eWPTXv3]</code>
-      </td>
-      <td align="center" width="220">
-        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/118275327" width="160" /><br>
-        <code>[eWPTv2]</code>
-      </td>
-      <td align="center" width="220">
-        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/111771873" width="160" /><br>
-        <code>[eJPTv2]</code>
-      </td>
-    </tr>
-  </table>
-</div>
+|  |  |  |  |
+| :---: | :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/b144a205-e91c-4ee9-988c-2e2c93659db4" width="150"><br>`[CAPenX]` | <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/130542707" width="150"><br>`[eWPTXv3]` | <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/118275327" width="150"><br>`[eWPTv2]` | <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/111771873" width="150"><br>`[eJPTv2]` |
+|  | <img src="https://raw.githubusercontent.com/CalledSTRIKER/CalledSTRIKER-gitbook/main/.gitbook/assets/image%20(42).png" width="150"><br>`[Dante]` | <img src="https://raw.githubusercontent.com/CalledSTRIKER/CalledSTRIKER-gitbook/main/.gitbook/assets/image%20(44).png" width="150"><br>`[P.O.O]` |  |
 
 
 
