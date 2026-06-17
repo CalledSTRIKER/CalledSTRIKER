@@ -33,4 +33,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "auto: update stats cards"
-          file_pattern: "assets/htb-stats.svg assets/thm-stats.svg assets/htb_state.json"
+          file_pattern: "assets/htb-stats.svg assets/htb_state.json"
