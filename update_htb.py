@@ -149,7 +149,7 @@ def rank_color(rank):
         "Hacker":        "#FF7A45",
         "Pro Hacker":    "#FF9800",
         "Elite Hacker":  "#FF5C3A",
-        "Guru":          "#D97706",
+        "Architect":          "#D97706",
     }.get(rank or "", "#FF7A45")
 
 def safe(value, fallback="N/A"):
