@@ -31,7 +31,7 @@ HTB_USER_ID = os.environ.get("HTB_USER_ID", "2013859")
 HTB_TOKEN   = os.environ.get("HTB_TOKEN", "")
 HTB_AVATAR_URL = os.environ.get(
     "HTB_AVATAR_URL",
-    "https://account.hackthebox.com/storage/users/221d55bf-bd62-4380-850b-aa9c516e1dcf-avatar.png",
+    "https://htb-sso-prod-public-storage.s3.eu-central-1.amazonaws.com/users/221d55bf-bd62-4380-850b-aa9c516e1dcf-avatar.png",
 )
 
 OUTPUT_FILE = "assets/htb-stats.svg"
