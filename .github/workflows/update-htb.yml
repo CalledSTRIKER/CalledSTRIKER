@@ -1,4 +1,4 @@
-name: Update HTB & Tryhackme badges
+name: Update HTB badge
 
 on:
   schedule:
