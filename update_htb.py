@@ -162,7 +162,7 @@ def generate_svg(s):
     # 1. Fetch images as Base64 to bypass GitHub security
     print("\n[*] Encoding images to base64...")
     b64_avatar = fetch_base64_image(HTB_AVATAR_URL)
-    b64_logo = fetch_base64_image("https://www.hackthebox.com/images/logo-htb.svg")
+    b64_logo = fetch_base64_image("https://www.hackthebox.com/hubfs/Cube_favicon.png")
     
     b64_season = ""
     if s.get("season_league"):
